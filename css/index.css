@@ -1,0 +1,21 @@
+.border1 {
+  float: left;
+  border-style: solid;
+  border-width: 20px;
+  border-color: black;
+  padding: 20px;
+  margin: 20px;
+  width: 80%;
+  box-sizing: content-box;
+}
+
+.border2 {
+  float: left;
+  border-style: solid;
+  border-width: 20px;
+  border-color: black;
+  padding: 20px;
+  margin: 20px;
+  width: 80%;
+  box-sizing: border-box;
+}
